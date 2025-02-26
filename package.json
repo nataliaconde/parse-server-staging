@@ -1,0 +1,14 @@
+{
+  "name": "parse-server-staging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parse-server": "6.2.0",
+    "express": "4.21.2",
+    "parse": "5.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
